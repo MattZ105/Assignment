@@ -1,0 +1,13 @@
+<?php
+$MyFirstVariable = "Matt" ;
+echo 'My first variable was named $MyFirstVariable <br>';
+echo "The value of my first variable was $MyFirstVariable <br>";
+$EmptyArray = array("empty");
+print_r($EmptyArray);
+$NameArray = array("Matt", "Zasucha", "Fall 2020") ; 
+print_r($NameArray);
+$NumberArray = range(1,50);
+print_r($NumberArray)
+echo 'My first variable was named $MyFirstVariable <br>';
+echo "The value of my first variable was $MyFirstVariable <br>";
+?>
